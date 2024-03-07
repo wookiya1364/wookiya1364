@@ -3,7 +3,7 @@
 ![title](https://capsule-render.vercel.app/api?type=transparent&fontSize=90&fontColor=703ee5&height=300&section=header&text=Frontend%20spaces&desc=developed%20by%20wooki&descAlignY=70&descAlign=78)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Develop+utilities+to+help+the+frontend;Languages+used+are+javascript,+typescript,+python,+Rust)](https://git.io/typing-svg)
 
 <!--
 **wookiya1364/wookiya1364** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
