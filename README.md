@@ -1,9 +1,8 @@
 ![title](https://capsule-render.vercel.app/api?type=transparent&fontSize=90&fontColor=703ee5&height=300&section=header&text=Frontend%20spaces&desc=developed%20by%20wooki&descAlignY=70&descAlign=78)
 
-## 👋 Hello, call me wooki
-
 ---
 
+## 👋 Hello, call me wooki
 - 문제를 근본적으로 해결하는 것을 좋아합니다.
 - 더 나은 서비스, 내 성장을 위해 주도적으로 개발할 수 있는 환경을 선호합니다.
 - 목표는 모두에게 "같이 일하고 싶은 사람" 입니다.
