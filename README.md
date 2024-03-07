@@ -1,6 +1,7 @@
 ![title](https://capsule-render.vercel.app/api?type=transparent&fontSize=90&fontColor=703ee5&height=300&section=header&text=Frontend%20spaces&desc=developed%20by%20wooki&descAlignY=70&descAlign=78)
 
-### Tech Stack
+## 🛠 Tech Stack
+
 ![](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a)
 ![](https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB)
 ![](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
