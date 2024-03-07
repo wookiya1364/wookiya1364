@@ -1,4 +1,6 @@
-## Hello, call me wooki
+![title](https://capsule-render.vercel.app/api?type=transparent&fontSize=90&fontColor=703ee5&height=300&section=header&text=Frontend%20spaces&desc=developed%20by%20wooki&descAlignY=70&descAlign=78)
+
+## 👋 Hello, call me wooki
 
 ---
 
@@ -6,13 +8,11 @@
 - 더 나은 서비스, 내 성장을 위해 주도적으로 개발할 수 있는 환경을 선호합니다.
 - 목표는 모두에게 "같이 일하고 싶은 사람" 입니다.
 
-![title](https://capsule-render.vercel.app/api?type=transparent&fontSize=90&fontColor=703ee5&height=300&section=header&text=Frontend%20spaces&desc=developed%20by%20wooki&descAlignY=70&descAlign=78)
-
 ## 🛠 Tech Stack
 - javascript | typescript | python | java
 - React | Next.js | Jest | Tanstack-Query
 
-## Work Experience
+## 💻 Work Experience
 - 멀티캠퍼스 | Fullstack Developer (2023.12 ~ )
 - 데이터크러쉬 | Frontend Developer (2021.03 ~ 2023.12)
 - 나이스디앤비 | Fullstack Developer (2019.05 ~ 2021.03)
