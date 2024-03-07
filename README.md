@@ -4,6 +4,7 @@
 ![](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a)
 ![](https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB)
+![](https://img.shields.io/badge/nextjs-20232a.svg?style=for-the-badge&logo=nextjs&logoColor=61DAFB)
 ![](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wookiya1364&layout=compact)
