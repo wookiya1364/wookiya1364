@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontSize=90&fontColor=703ee5&height=300&section=header&text=Frontend%20spaces&desc=developed%20by%20wooki&descAlignY=60&descAlign=10"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontSize=90&fontColor=703ee5&height=300&section=header&text=Frontend%20spaces&desc=developed%20by%20wooki&descAlignY=60&descAlign=30"/>
 ### Hi there 👋
 
 <!--
