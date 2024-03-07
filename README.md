@@ -2,6 +2,8 @@
 
 ![title](https://capsule-render.vercel.app/api?type=transparent&fontSize=90&fontColor=703ee5&height=300&section=header&text=Frontend%20spaces&desc=developed%20by%20wooki&descAlignY=70&descAlign=78)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wookiya1364&layout=compact)
+
 ![wooki GitHub stats](https://github-readme-stats.vercel.app/api?username=wookiya1364&show_icons=true&theme=transparent)
 
 <!--
