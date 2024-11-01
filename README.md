@@ -13,7 +13,6 @@
 
 ## 💻 Work Experience
 - 컬리 | Frontend Engineer (2024.07 ~ )
-- 멀티캠퍼스 | Frontend Engineer (2023.12 ~ 2024.06)
 - 데이터크러쉬 | Frontend Engineer (2021.03 ~ 2023.12)
 - 나이스디앤비 | Fullstack Engineer (2019.05 ~ 2021.03)
 - 인스웨이브 시스템즈 | Frontend Engineer (2016.04 ~ 2018.11)
